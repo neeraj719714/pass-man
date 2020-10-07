@@ -1,19 +1,20 @@
 {
-  "name": "pass-man",
-  "version": "0.0.1",
-  "description": "A Simple Password Manager",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/neeraj719714/pass-man.git"
-  },
-  "author": "Neeraj Singh",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/neeraj719714/pass-man/issues"
-  },
-  "homepage": "https://github.com/neeraj719714/pass-man#readme"
+    "name": "pass-man",
+    "version": "0.0.1",
+    "description": "A Simple Password Manager",
+    "main": "index.js",
+    "scripts": {
+        "start": "electron .",
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/neeraj719714/pass-man.git"
+    },
+    "author": "Neeraj Singh",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/neeraj719714/pass-man/issues"
+    },
+    "homepage": "https://github.com/neeraj719714/pass-man#readme"
 }
